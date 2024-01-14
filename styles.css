@@ -117,5 +117,9 @@
   }
   
   a {
-    color: whitesmoke
+    color: whitesmoke;
+  }
+  
+  img {
+    text-align: center
   }
