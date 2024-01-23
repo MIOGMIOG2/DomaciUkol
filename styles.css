@@ -121,5 +121,59 @@
   }
   
   img {
-    text-align: center
+    text-align: center;
+  }
+
+  .normal {
+    text-align: left;
+  }
+
+  .nadpis2sezlutympozadimazelenymteckovanymokrajemmodrymtextemazarovnanimdobloku {
+    text-align: justify;
+    background-color: yellow;
+    color: darkblue;
+    border: 5px green dotted;
+  }
+
+  .blbost2 {
+    text-align: right;
+    background-color: white;
+    color: darkgray;
+    border: 10px whitesmoke double;
+  }
+
+  .blbost3 {
+    background-color: #23252f;
+  }
+  
+  .blbost4 {
+    text-align: end;
+    font-family: “Comic Sans MS”, “Comic Sans”, cursive;
+  }
+
+  .zadnablbost {
+    border: 1px red solid;
+  }
+
+  .zadnablbost2 {
+    border: 0.5px blue solid;
+  }
+
+  .nadpisstranky {
+    border: 0.5px black dotted;
+  }
+
+  .zadnablbost3 {
+    border: 3px white dotted;
+    text-align: center;
+  }
+
+  .zadnablbost4 {
+    font-family: serif;
+  }
+
+  .bilyodstavec {
+    background-color: white;
+    color: black;
+    font-family: serif
   }
